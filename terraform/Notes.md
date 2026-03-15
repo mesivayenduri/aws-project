@@ -1,0 +1,3 @@
+-> Create a VPC
+-> Create Subnets
+    -> Attache VPC

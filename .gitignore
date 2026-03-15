@@ -1,0 +1,12 @@
+terraform/.terraformignore
+# Ignore Terraform state files
+terraform/*.tfstate
+terraform/*.tfstate.backup
+# Ignore Terraform variables files
+terraform/variables.tf
+# Ignore Terraform plan files
+terraform/*.tfplan
+# Ignore Terraform log files
+terraform/terraform.log
+terraform/.terraform/
+userapp/target/
